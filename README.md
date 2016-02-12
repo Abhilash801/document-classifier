@@ -29,7 +29,7 @@ Used R for the purpose of this challenge.
 ## Results:
 -  From the random test subset of documents, documents which are correctly classified as positive are summarized in diseaseresults.csv in your root folder.
 -  Metrics like precision, recall and accuracy are written to modelresults.txt file in root folder
-- Owing to huge sample set for training the performance of regression tree has been pretty high with a precision of .97
+- Owing to huge sample set for training, the performance of regression tree has been pretty high with a precision of .97
 
 
  
