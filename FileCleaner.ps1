@@ -1,0 +1,1 @@
+ls | Rename-Item -NewName {$_ -replace '[^a-zA-Z0-9_.  ]', '' }
