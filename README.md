@@ -1,5 +1,5 @@
 # document-classifier
-a binary classifier to classify documents.Classification of Articles with document corpus and regression trees
+A binary classifier to classify documents with document corpus and regression trees
 
 ## Approach
 For execution instructions jump directly to next section
