@@ -15,7 +15,7 @@ Used R for the purpose of this challenge.
 -	 Constructed regression tree model which predicts class variable positive or negative based on the term matrix which is of size 347 for the given set of documents
 -	 Executed the model to predict the document class for test data.
 -	Constructed confusion matrix and computed precision, recall and accuracy of the model
--	 Note: I had two alternate models for this classification, the other approach is based on neural networks trees. It is included in the code, however its performance is poor compared to regression solution,Neural network was performing poorly on test data possibly due to overfitting
+-	 Note: I had two alternate models for this classification, the other approach is based on neural networks. It is included in the code, however its performance is poor compared to regression solution most likely due to overfitting
 
 ## Execution Instructions:  
 -  System requirements: Operations are expensive as documents > 10000. Recommend running this script on system with at least 8 GB RAM and 4 core processor (I used 16 gig and 8 cores yet it was sluggish at times!)
